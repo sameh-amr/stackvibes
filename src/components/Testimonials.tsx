@@ -17,7 +17,7 @@ const Testimonials: React.FC = () => {
       name: 'Sarah Johnson',
       role: 'Marketing Director',
       company: 'TechCorp',
-      content: 'Stackvibe transformed our digital presence. Their mobile-first approach resulted in a 40% increase in user engagement.',
+      content: 'Stackvibe helped us rethink our mobile UX strategy. We’ve seen consistent user growth month-over-month since partnering with them.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     },
@@ -26,7 +26,7 @@ const Testimonials: React.FC = () => {
       name: 'Michael Chen',
       role: 'CEO',
       company: 'StartUpX',
-      content: 'The team delivered beyond our expectations. Their attention to detail in implementing mobile first designs was impressive.',
+      content: 'Their professionalism and delivery speed were exactly what we needed as a growing startup. Highly recommend Stackvibe!',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     },
@@ -35,11 +35,39 @@ const Testimonials: React.FC = () => {
       name: 'Emma Rodriguez',
       role: 'Product Manager',
       company: 'Digital Solutions',
-      content: 'Working with Stackvibe was seamless. They understood our vision and executed it flawlessly with React and TypeScript.',
+      content: 'They turned our rough wireframes into a functional, elegant interface. We especially appreciated their clear communication.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 4
+    },
+    {
+      id: 4,
+      name: 'Ahmed El-Sayed',
+      role: 'Business Development Lead',
+      company: 'CairoTech',
+      content: 'Working with Stackvibe was a smooth experience. They quickly understood our needs and delivered a highly intuitive UI.',
+      avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
+      rating: 5
+    },
+    {
+      id: 5,
+      name: 'Layla Mansour',
+      role: 'Digital Marketing Consultant',
+      company: 'BrightPath',
+      content: 'Stackvibe really stood out with their responsive design and user-centric approach. Our engagement rates noticeably improved.',
+      avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
+      rating: 4
+    },
+    {
+      id: 6,
+      name: 'Youssef Kamal',
+      role: 'Tech Lead',
+      company: 'NextVision',
+      content: 'We partnered with Stackvibe for a complete app overhaul. The result exceeded our expectations and was delivered right on time.',
+      avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
+      rating: 5
     }
   ];
+  
 
   return (
     <section className="py-20 bg-white">

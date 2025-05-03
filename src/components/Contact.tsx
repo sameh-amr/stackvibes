@@ -45,7 +45,7 @@ const Contact: React.FC = () => {
                     </svg>
                     <div>
                       <h4 className="font-bold">Phone</h4>
-                      <p>+1 (555) 123-4567</p>
+                      <p>+2 010-9244-8325</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -64,7 +64,7 @@ const Contact: React.FC = () => {
                     </svg>
                     <div>
                       <h4 className="font-bold">Address</h4>
-                      <p>123 Digital Street, Tech City, TC 10001</p>
+                      <p>Cairo, Egypt</p>
                     </div>
                   </div>
                 </div>
