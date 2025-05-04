@@ -31,6 +31,15 @@ const Projects: React.FC = () => {
     },
     {
       id: 3,
+      title: "AI Chatbot",
+      description: "Chatbot which utlizes AI to answer the users questions",
+      category: "Web Development",
+      imageUrl:
+        "https://t3.ftcdn.net/jpg/02/83/07/16/240_F_283071689_lmQNl1INWQGEUgEzPpkuzKA52LAUDkgp.jpg",
+      url: "https://ai-chatbot-demo-coral-nu.vercel.app/",
+    },
+    {
+      id: 4,
       title: "Corporate Website",
       description: "Modern corporate website with CMS integration.",
       category: "Web Design",
@@ -39,7 +48,7 @@ const Projects: React.FC = () => {
       url: "https://company-demo-khaki.vercel.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Online CRM",
       description: "Website for booking hotels online",
       category: "Web Development",
@@ -47,6 +56,7 @@ const Projects: React.FC = () => {
         "https://t4.ftcdn.net/jpg/05/39/08/33/360_F_539083351_DbZXB3Q3xjDXWwvpOu1SFDCXpV0OS7VX.jpg",
       url: "https://crm-demo-chi.vercel.app/",
     },
+
   ];
 
   return (
