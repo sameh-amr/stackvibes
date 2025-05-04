@@ -6,6 +6,7 @@ interface Project {
   description: string;
   category: string;
   imageUrl: string;
+  url?:string
 }
 
 const Projects: React.FC = () => {
@@ -16,6 +17,7 @@ const Projects: React.FC = () => {
       description: 'A fully responsive e-commerce solution with seamless checkout process.',
       category: 'Web Development',
       imageUrl: 'https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+      url:'https://react-ecommerce-template-lac.vercel.app/'
     },
     {
       id: 2,
@@ -30,6 +32,8 @@ const Projects: React.FC = () => {
       description: 'Modern corporate website with CMS integration.',
       category: 'Web Design',
       imageUrl: 'https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60',
+      url:'https://company-demo-khaki.vercel.app/'
+
     },
     {
       id: 4,
@@ -67,7 +71,7 @@ const Projects: React.FC = () => {
                 <h3 className="text-xl font-bold mb-2">{project.title}</h3>
                 <p className="text-gray-600">{project.description}</p>
                 <a
-  href="https://react-ecommerce-template-lac.vercel.app/"
+  href={project.url}
   target="_blank"
   rel="noopener noreferrer"
 >
