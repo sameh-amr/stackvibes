@@ -66,9 +66,16 @@ const Projects: React.FC = () => {
                 </span>
                 <h3 className="text-xl font-bold mb-2">{project.title}</h3>
                 <p className="text-gray-600">{project.description}</p>
-                <button className="mt-4 text-indigo-600 font-medium hover:text-indigo-800 transition duration-300">
-                  View Case Study →
-                </button>
+                <a
+  href="https://react-ecommerce-template-lac.vercel.app/"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  <button className="mt-4 text-indigo-600 font-medium hover:text-indigo-800 transition duration-300">
+    View Demo →
+  </button>
+</a>
+
               </div>
             </div>
           ))}

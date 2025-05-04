@@ -51,7 +51,7 @@ const Team: React.FC = () => {
     {
       id: 4,
       name: "Mohamed Yousef",
-      role: "Senior Acqusition Manager",
+      role: "Sales and Senior Acqusition Manager",
       bio: "Senior Acquisition Manager at STG Auto Group, specializing in strategic procurement and inventory optimization. Proven record in sourcing vehicles and driving growth through market analysis.",
       imageUrl: mido,
       social: {
