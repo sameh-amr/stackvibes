@@ -14,7 +14,7 @@ const Header: React.FC = () => {
               alt="Stackvibe Logo"
               className="h-8 w-8 -mr-1.5" 
             />
-            <span className="text-2xl font-bold text-[#6b5ac0]">tackvibe</span>
+            <span className="text-2xl font-bold text-[#6b5ac0]">tackvibes</span>
           </div>
         </div>
         
