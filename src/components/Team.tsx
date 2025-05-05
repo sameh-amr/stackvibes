@@ -1,7 +1,7 @@
 import React from "react";
-import mido from "../team images/7amo2a.jpg";
-import teezhary from "../team images/teezhary.jpg";
-import ashf from "../team images/ashf.jpg";
+import mo from "../team images/mo.jpg";
+import azhary from "../team images/azhary.jpg";
+import ashraf from "../team images/ashraf.jpg";
 import sameh from "../team images/sameh.jpg";
 interface TeamMember {
   id: number;
@@ -33,7 +33,7 @@ const Team: React.FC = () => {
       name: "Ashraf Hossam",
       role: "Senior Software Engineer",
       bio: "Senior Software Engineer at Transflo, specializing in system design and architecture. Expert in building scalable .NET solutions for logistics and enterprise integration.",
-      imageUrl: ashf,
+      imageUrl: ashraf,
       social: {
         linkedin: "https://www.linkedin.com/in/ashraf-hosam-ibrahim/",
       },
@@ -43,7 +43,7 @@ const Team: React.FC = () => {
       name: "Ahmed Fahmy",
       role: "Senior Software Engineer",
       bio: "Senior Software Engineer at Transflo, expert in developing scalable logistics solutions. Focused on backend systems, cloud integration, and performance optimization.",
-      imageUrl: teezhary,
+      imageUrl: azhary,
       social: {
         linkedin: "https://www.linkedin.com/in/ahmed-fahmy-233754171/",
       },
@@ -53,7 +53,7 @@ const Team: React.FC = () => {
       name: "Mohamed Yousef",
       role: "Sales and Senior Acqusition Manager",
       bio: "Senior Acquisition Manager at STG Auto Group, specializing in strategic procurement and inventory optimization. Proven record in sourcing vehicles and driving growth through market analysis.",
-      imageUrl: mido,
+      imageUrl: mo,
       social: {
         linkedin: "https://www.linkedin.com/in/mohamed-youssef-70735613b/",
       },

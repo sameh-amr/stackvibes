@@ -20,7 +20,7 @@ const Header: React.FC = () => {
             <img 
               src="/favicon2.png" 
               alt="Stackvibe Logo"
-              className="h-12 w-11 -ml-3 -mr-3" 
+              className="h-13 w-11 -ml-3 -mr-3" 
             />
             <span className="text-2xl font-bold text-[#6b5ac0]">ibes</span>
           </div>
