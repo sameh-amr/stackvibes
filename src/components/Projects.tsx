@@ -49,8 +49,8 @@ const Projects: React.FC = () => {
     },
     {
       id: 5,
-      title: "Online CRM",
-      description: "Website for booking hotels online",
+      title: "CRM Web App",
+      description: "A web-based customer relationship management (CRM) platform for managing client interactions, sales, and business processes online.",
       category: "Web Development",
       imageUrl:
         "https://t4.ftcdn.net/jpg/05/39/08/33/360_F_539083351_DbZXB3Q3xjDXWwvpOu1SFDCXpV0OS7VX.jpg",
