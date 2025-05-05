@@ -17,7 +17,7 @@ const Testimonials: React.FC = () => {
       name: 'Sarah Johnson',
       role: 'Marketing Director',
       company: 'TechCorp',
-      content: 'Stackvibe helped us rethink our mobile UX strategy. We’ve seen consistent user growth month-over-month since partnering with them.',
+      content: 'StackVibes helped us rethink our mobile UX strategy. We’ve seen consistent user growth month-over-month since partnering with them.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     },
@@ -26,7 +26,7 @@ const Testimonials: React.FC = () => {
       name: 'Michael Chen',
       role: 'CEO',
       company: 'StartUpX',
-      content: 'Their professionalism and delivery speed were exactly what we needed as a growing startup. Highly recommend Stackvibe!',
+      content: 'Their professionalism and delivery speed were exactly what we needed as a growing startup. Highly recommend StackVibes!',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     },
@@ -44,7 +44,7 @@ const Testimonials: React.FC = () => {
       name: 'Ahmed El-Sayed',
       role: 'Business Development Lead',
       company: 'CairoTech',
-      content: 'Working with Stackvibe was a smooth experience. They quickly understood our needs and delivered a highly intuitive UI.',
+      content: 'Working with StackVibes was a smooth experience. They quickly understood our needs and delivered a highly intuitive UI.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     },
@@ -53,7 +53,7 @@ const Testimonials: React.FC = () => {
       name: 'Layla Mansour',
       role: 'Digital Marketing Consultant',
       company: 'BrightPath',
-      content: 'Stackvibe really stood out with their responsive design and user-centric approach. Our engagement rates noticeably improved.',
+      content: 'StackVibes really stood out with their responsive design and user-centric approach. Our engagement rates noticeably improved.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 4
     },
@@ -62,7 +62,7 @@ const Testimonials: React.FC = () => {
       name: 'Youssef Kamal',
       role: 'Tech Lead',
       company: 'NextVision',
-      content: 'We partnered with Stackvibe for a complete app overhaul. The result exceeded our expectations and was delivered right on time.',
+      content: 'We partnered with StackVibes for a complete app overhaul. The result exceeded our expectations and was delivered right on time.',
       avatar: 'https://www.shutterstock.com/image-vector/default-avatar-profile-icon-social-600nw-2409187029.jpg',
       rating: 5
     }

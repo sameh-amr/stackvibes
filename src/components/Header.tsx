@@ -12,14 +12,14 @@ const Header: React.FC = () => {
             {/* Replaces 'S' */}
             <img 
               src="/favicon.ico" 
-              alt="Stackvibe Logo"
+              alt="StackVibes Logo"
               className="h-8 w-8 -mr-1.5" 
             />
             <span className="text-2xl font-bold text-[#6b5ac0]">tack</span>
             {/* Replaces 'v' */}
             <img 
               src="/favicon2.png" 
-              alt="Stackvibe Logo"
+              alt="StackVibes Logo"
               className="h-13 w-11 -ml-3 -mr-3" 
             />
             <span className="text-2xl font-bold text-[#6b5ac0]">ibes</span>

@@ -76,7 +76,7 @@ const Hero: React.FC = () => {
           transition={{ duration: 0.6, delay: 0.15 }}
           className="text-lg md:text-xl mb-6 max-w-2xl mx-auto text-gray-300"
         >
-          Stackvibe transforms ideas into cutting-edge digital experiences with 
+          StackVibes transforms ideas into cutting-edge digital experiences with 
           <span className="text-blue-300 font-medium"> mobile and web </span> solutions.
         </motion.p>
         
