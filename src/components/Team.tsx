@@ -22,7 +22,7 @@ const Team: React.FC = () => {
       id: 1,
       name: "Sameh Amr",
       role: "Senior Software Engineer",
-      bio: "Senior Software Engineer at Schneider Electric, specializing in designing scalable systems. Expert in JavaScript frameworks, React, and Node.js for modern logistics solutions.",
+      bio: "Senior Software Engineer specializing in designing scalable systems. Expert in JavaScript frameworks, React, and Node.js for modern logistics solutions.",
       imageUrl: sameh,
       social: {
         linkedin: "https://www.linkedin.com/in/sameh-amr-7a5a6a136/",
@@ -32,7 +32,7 @@ const Team: React.FC = () => {
       id: 2,
       name: "Ashraf Hossam",
       role: "Senior Software Engineer",
-      bio: "Senior Software Engineer at Transflo, specializing in system design and architecture. Expert in building scalable .NET solutions for logistics and enterprise integration.",
+      bio: "Senior Software Engineer specializing in system design and architecture. Expert in building scalable .NET solutions for logistics and enterprise integration.",
       imageUrl: ashraf,
       social: {
         linkedin: "https://www.linkedin.com/in/ashraf-hosam-ibrahim/",
@@ -42,7 +42,7 @@ const Team: React.FC = () => {
       id: 3,
       name: "Ahmed Fahmy",
       role: "Senior Software Engineer",
-      bio: "Senior Software Engineer at Transflo, expert in developing scalable logistics solutions. Focused on backend systems, cloud integration, and performance optimization.",
+      bio: "Senior Software Engineer specializing in developing scalable solutions. Focused on backend systems, cloud integration, and performance optimization.",
       imageUrl: azhary,
       social: {
         linkedin: "https://www.linkedin.com/in/ahmed-fahmy-233754171/",
@@ -52,7 +52,7 @@ const Team: React.FC = () => {
       id: 4,
       name: "Mohamed Yousef",
       role: "Sales and Senior Acqusition Manager",
-      bio: "Senior Acquisition Manager at STG Auto Group, specializing in strategic procurement and inventory optimization. Proven record in sourcing vehicles and driving growth through market analysis.",
+      bio: "Senior Acquisition Manager specializing in strategic procurement and inventory optimization. Proven record in driving growth through market analysis.",
       imageUrl: mo,
       social: {
         linkedin: "https://www.linkedin.com/in/mohamed-youssef-70735613b/",
