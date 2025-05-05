@@ -7,14 +7,22 @@ const Header: React.FC = () => {
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          {/* Logo with favicon */}
+          {/* Logo with favicons replacing 's' and 'v' */}
           <div className="flex items-center">
+            {/* Replaces 'S' */}
             <img 
               src="/favicon.ico" 
               alt="Stackvibe Logo"
               className="h-8 w-8 -mr-1.5" 
             />
-            <span className="text-2xl font-bold text-[#6b5ac0]">tackvibes</span>
+            <span className="text-2xl font-bold text-[#6b5ac0]">tack</span>
+            {/* Replaces 'v' */}
+            <img 
+              src="/favicon2.png" 
+              alt="Stackvibe Logo"
+              className="h-12 w-11 -ml-3 -mr-3" 
+            />
+            <span className="text-2xl font-bold text-[#6b5ac0]">ibes</span>
           </div>
         </div>
         
